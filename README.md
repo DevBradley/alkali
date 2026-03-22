@@ -1,6 +1,6 @@
 alkali source (other flavours in different branches)
 
-***to upload a new distro, create from the empty branch, not the main (unless you want all main assets in it)***
+***to upload a new flavour, create from the empty branch, not the main (unless you want all main assets in it)***
 
 **how to easily emulate**
 
