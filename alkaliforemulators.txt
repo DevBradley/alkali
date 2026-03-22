@@ -1,3 +1,0 @@
-https://raw.githubusercontent.com/DevBradley/alkali/refs/heads/main/alkali-release-2.pmp
-
-use runtime extension and then load from this url
