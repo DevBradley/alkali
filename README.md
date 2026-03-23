@@ -1,5 +1,12 @@
 trillby source repository
 
+**Changelog**
+
+*EMERGENCY PATCH*
+Patch for trillby 2.1-dev
+error was preventing it from starting
+fixed
+
 
 **Changelog**
 
