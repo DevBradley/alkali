@@ -1,19 +1,30 @@
 ***more of a checklist then a changelog***
 
 **Updates for the system**
+
   [✓] updated to show the latest release *(2.2 dev)*
+  
   [!] no further updates
+  
 
 **Updates for the trillion environment**
-  $${\color{red}Red}$$
+
   [✓] updated to **1.2/1.3** i dont know what version *(may remove versioning system)*
+  
   [✓] updated the pop themes trillbar look
+  
   [✗] made the theme switcher work again
+  
   [✗] updating the themes program, **its repurposed as customization.**
+  
   [✗] adding a task manager program
+  
   [broken] *adding functionality* to offset program assets
+  
   [broke itself] **fixed** program button functionality
+  
   [broken] updated asset template to have offset functionality
+  
   [✓] t-p_offset is the global set, while t-offset is the specific asset definintion.
 
 
